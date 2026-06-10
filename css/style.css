@@ -113,7 +113,7 @@ select {
 .brand {
   display: inline-flex;
   align-items: center;
-  min-width: 300px;
+  min-width: 250px;
   gap: 10px;
 }
 
