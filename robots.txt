@@ -1,0 +1,13 @@
+User-agent: *
+Allow: /
+Disallow: /academy/courses.html
+Disallow: /academy/knowledge.html
+Disallow: /academy/learning-path.html
+Disallow: /academy/compliance.html
+Disallow: /academy/topic.html
+Disallow: /academy/traders.html
+Disallow: /academy/*?
+Disallow: /academy/*.zip$
+Disallow: /academy/GrandMarketsAcademy_website_public_final_20260602*/
+
+Sitemap: https://www.grandmarkets.com/academy/sitemap.xml
